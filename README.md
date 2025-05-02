@@ -4,5 +4,5 @@ Mon site web de portfolio
 
 ## Aperçu
 
-![capture d'écran de l'application](README.md)
+![capture d'écran de l'application](images.png)
 
