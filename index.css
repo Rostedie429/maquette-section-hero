@@ -1,0 +1,171 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+
+
+nav{
+    margin-top: 20px;
+}
+
+body{
+    background-color: rgb(4, 4, 34);
+    color: white;
+}
+
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 20px;
+    font-weight: bold;
+}
+
+
+.gla{
+    color: white;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 2em;
+}
+
+
+.ro{
+    margin-top: 10px;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+
+.victoire{
+    margin-left: 40px;
+    margin-top: 70px;
+    width: 50%;
+}
+
+.puissance{
+    margin-left: 110px;
+    margin-top: 60px;
+    width: 30%;
+}
+
+.puiss{
+    margin-top: 60px;
+    margin-right: 2px;
+}
+
+
+
+.a{
+    width: 150px;
+    border-radius: 70px;
+    height: 220px;
+}
+
+.b{
+    width: 150px;
+    border-radius: 50px 50px 110px 50px;
+    height: 220px;
+    padding: 15px;
+    padding-bottom: 10px;
+}
+
+.c{
+    width: 150px;
+    height: 190px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.d{
+    width: 150px;
+    border-radius: 50%;
+    height: 190px;
+    
+}
+
+.f{
+    width: 150px;
+    height: 190px;
+    border-radius: 50%;
+    padding: 15px;
+    
+}
+
+.e{
+    width: 150px;
+    border-radius: 70px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.g{
+    width: 150px;
+    height: 190px;
+    padding: 15px;
+    border-radius: 240px 20px 20px 240px;
+}
+
+.h{
+    width: 150px;
+    border-radius: 100% 0% 0% 100%;
+    height: 220px;
+}
+
+
+
+h1{
+    font-size: 4em;
+    font-family: sans-serif;
+    padding-top: 0px;
+}
+
+.rop{
+    color: rgb(245, 98, 40);
+    font-size: 2em;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+}
+
+.star{
+    background-color: rgb(245, 98, 40);
+    height: 40px;
+    width: 40%;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+.star a{
+    text-decoration: none;
+    font-size: 1.7em;
+    color: white;
+    padding-left: 15px;
+    font-family: sans-serif;
+}
+
+.or{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin-left: 20px;
+}
+
+.or a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
+
+.top{
+    font-family: sans-serif;
+}
